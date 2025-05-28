@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Tobias 👋
+
+I do research on semiconducting materials for energy applications. 
+
+Research profile can be found on these links.
+- [https://orcid.org/0000-0002-1907-6609](ORCID)
+- 
+
+
+Website:
+- 
 
 <!--
 **tobiashaposan/tobiashaposan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
