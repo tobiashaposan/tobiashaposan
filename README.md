@@ -3,7 +3,7 @@
 I do research on semiconducting materials for energy applications. 
 
 Research profile can be found on these links.
-- [https://orcid.org/0000-0002-1907-6609](ORCID)
+- [ORCID](https://orcid.org/0000-0002-1907-6609)
 - 
 
 
