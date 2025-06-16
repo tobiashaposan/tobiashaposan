@@ -21,6 +21,7 @@ Current affiliations are:
 - [List of publications and articles](https://www.scopus.com/authid/detail.uri?authorId=58857305400)
 - [Former affiilation (2022-2023): Dept. of Materials Science @NUS](https://cde.nus.edu.sg/mse/)
 - [Former affiliation (2023-2024): Applied Physics & Chemistry @NCI](https://apcresearch.org/)
+- [Former affiliation (2019-2023): Dept. of Renewable Energy Engineering (Energy Materials) @UPM](https://stem.prasetiyamulya.ac.id/programs/s1-energy-business-technology/)
 
 ## Let's connect!
 - [LinkedIn](https://linkedin.com/in/tobiashaposan/)
