@@ -19,7 +19,8 @@ Current affiliations are:
 - [Personal website](https://haposan.com/)
 - [Portal](https://go.haposan.com/)
 - [List of publications and articles](https://www.scopus.com/authid/detail.uri?authorId=58857305400)
-- [Former affiliation: Applied Physics & Chemistry @NCI](https://apcresearch.org/)
+- [Former affiilation (2022-2023): Dept. of Materials Science @NUS](https://cde.nus.edu.sg/mse/)
+- [Former affiliation (2023-2024): Applied Physics & Chemistry @NCI](https://apcresearch.org/)
 
 ## Let's connect!
 - [LinkedIn](https://linkedin.com/in/tobiashaposan/)
