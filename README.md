@@ -18,7 +18,6 @@ Current affiliations are:
 ## Personal and group websites
 - [Personal website](https://haposan.com/)
 - [Portal](https://go.haposan.com/)
-- [List of publications and articles](https://www.scopus.com/authid/detail.uri?authorId=58857305400)
 - [Former affiilation (2022-2023): Dept. of Materials Science & Engineering @NUS](https://cde.nus.edu.sg/mse/)
 - [Former affiliation (2023-2024): Applied Physics & Chemistry @NCI](https://apcresearch.org/)
 - [Former affiliation (2019-2023): Dept. of Renewable Energy Engineering (Energy Materials) @UPM](https://stem.prasetiyamulya.ac.id/programs/s1-energy-business-technology/)
