@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I do research on semiconducting materials for energy applications. My research interests are around the fabrication nanomaterials for the application in energy materials and coatings.
+I do research on semiconducting materials for energy applications. My research interests are around the fabrication nanomaterials for the application in energy materials and nanofilm for coatings.
 
 Current affiliations are:
 <!--
@@ -24,7 +24,6 @@ Current affiliations are:
 ## Let's connect!
 - [LinkedIn](https://linkedin.com/in/tobiashaposan/)
 
-## Some statistics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tobiashaposan&theme=github_dark)
 
 <!--
